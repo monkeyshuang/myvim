@@ -1,4 +1,7 @@
 #myvim
+
+安装 git clone https://github.com/monkeyshuang/myvim.git ~/.vim
+
 我的vim及配置
 
 开箱即用
